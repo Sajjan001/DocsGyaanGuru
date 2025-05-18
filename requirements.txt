@@ -1,0 +1,13 @@
+streamlit
+langchain
+faiss-cpu
+sentence-transformers
+pypdf
+docx2txt
+requests
+streamlit
+faiss-cpu
+sentence-transformers
+PyMuPDF
+python-dotenv
+PyPDF2
